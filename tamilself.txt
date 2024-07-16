@@ -1,0 +1,28 @@
+Professional Experience:
+
+3.5 years as a Software Engineer at ABC Technologies.
+Specialized in automation testing with proficiency in Selenium-Java, Cypress (3 years of experience), Maven, Cucumber, POM (Page Object Model), and Data-driven testing.
+Utilized Git for version control and Jenkins for CI/CD pipeline integration.
+Project Experience:
+
+Worked on the BoConcept project in the E-commerce domain.
+Managed modules such as Product, Service, Find Store, and Contract.
+Followed Agile-Scrum methodologies with a team of 9 members, ensuring efficient sprint cycles and timely deliveries.
+Technical Skills:
+
+Developed and maintained automation frameworks using Selenium-Java and Cypress, enhancing test efficiency and coverage.
+Implemented Page Object Model (POM) to streamline test maintenance and reduce code duplication.
+Conducted Data-driven testing to validate application functionality across various scenarios.
+Collaboration and Project Management:
+
+Collaborated closely with cross-functional teams including developers, testers, and managers to achieve project goals.
+Engaged in Agile-Scrum ceremonies to plan sprints, review progress, and adapt to evolving requirements.
+Communicated effectively with stakeholders to understand and translate requirements into actionable test scenarios.
+Problem-solving and Continuous Improvement:
+
+Proven ability to troubleshoot and debug issues, ensuring the reliability of automated test executions.
+Identified and addressed potential performance bottlenecks, contributing to improved application quality.
+Adaptability and Learning:
+
+Quickly adapted to new tools and technologies such as Cypress, enhancing testing efficiency and effectiveness.
+Actively pursued continuous learning to stay abreast of industry trends and advancements in automation testing and software development.

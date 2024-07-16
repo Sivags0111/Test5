@@ -4,4 +4,6 @@ Hi Iam from Remote repo
 
 Delected some lines 
 
+After delete add some lines
+
 
